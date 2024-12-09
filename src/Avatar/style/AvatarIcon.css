@@ -1,0 +1,12 @@
+.custom-avatar {
+  position: relative; /* 设置父元素为相对定位 */
+}
+
+.status-icon {
+  position: absolute; /* 设置图标为绝对定位 */
+  bottom: 0; /* 图标底部与父元素底部对齐 */
+  right: 0; /* 图标右侧与父元素右侧对齐 */
+  width: 25%; /* 调整图标的大小 */
+  height: auto;
+  margin: -10px; /* 调整图标的边距，使其看起来更自然 */
+}
