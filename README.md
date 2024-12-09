@@ -1,7 +1,10 @@
 # sparkd
 
-[![NPM version](https://img.shields.io/npm/v/sparkd.svg?style=flat)](https://npmjs.org/package/sparkd)
-[![NPM downloads](http://img.shields.io/npm/dm/sparkd.svg?style=flat)](https://npmjs.org/package/sparkd)
+[![NPM version](https://img.shields.io/npm/v/@sparkssoft/sparkd.svg?style=flat)](https://www.npmjs.com/package/@sparkssoft/sparkd)
+[![NPM downloads](https://img.shields.io/npm/dm/@sparkssoft/sparkd.svg?style=flat)](https://www.npmjs.com/package/@sparkssoft/sparkd)
+[![NPM license](https://img.shields.io/npm/l/@sparkssoft/sparkd.svg?style=flat)](https://www.npmjs.com/package/@sparkssoft/sparkd)
+[![NPM author](https://img.shields.io/badge/author-@sparkssoft-blue.svg?style=flat)](https://www.npmjs.com/~sparkssoft)
+
 
 A react library developed with dumi
 
