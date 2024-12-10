@@ -130,3 +130,8 @@ dist
 .pnp.*
 
 .idea
+.npmrc
+.npmrc_local
+.dumi/tmp
+.dumi/tmp-test
+.dumi/tmp-production
